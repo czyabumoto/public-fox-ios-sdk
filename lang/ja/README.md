@@ -272,6 +272,8 @@ sendStartSessionは必ず上記二カ所に実装を行ってください。
 
 * [管理画面上に登録したバンドルバージョンに応じた処理の振り分け](./doc/check_version/README.md)
 
+* [ダイナミック配信連携仕様](./doc/dynamic_integration/README.md)
+
 ## FAQ（よくある質問集）
 
 ### F.O.Xで利用するバンドルバージョンとは？
